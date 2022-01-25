@@ -15,3 +15,7 @@ A continuación encontrará una lista de proyectos realizados como práctica de 
 
 ## Clon de Google: Clon de página de inicio de Google desarrollado en HTML y CSS
 <li><a href="https://jairoduenas.github.io/clon-google/">Google</a></li>
+
+# Contacto
+Teléfono 3206152536
+LinkedIn: <li><a href="https://www.linkedin.com/in/jhondueñas">Google</a></li>
