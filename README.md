@@ -18,4 +18,4 @@ A continuación encontrará una lista de proyectos realizados como práctica de 
 
 # Contacto
 Teléfono 3206152536
-LinkedIn: <li><a href="https://www.linkedin.com/in/jhondueñas">Google</a></li>
+LinkedIn: <li><a href="https://www.linkedin.com/in/jhondueñas">LinkedIn</a></li>
