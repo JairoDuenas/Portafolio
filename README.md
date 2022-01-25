@@ -8,5 +8,10 @@ A continuación encontrará una lista de proyectos realizados como práctica de 
 
 ## Proyecto Batatabit: Sitio Web estático y responsivo desrrollado en HTML y CSS, incluye imágenes y una breve descripción
 
-<li><a href="https://jairoduenas.github.io/ProyectoBatatabit/">Ejemplo de portafolio</a></li>
+<li><a href="https://jairoduenas.github.io/ProyectoBatatabit/">Batatabit</a></li>
 
+## Proyecto Expert.D: Sitio Web estático y responsivo desrrollado en BootStrap 5, incluye imágenes, descripción y un formulario
+<li><a href="https://jairoduenas.github.io/bootStrap5-ejemplo/">Expert.D</a></li>
+
+## Clon de Google: Clon de página de inicio de Google desarrollado en HTML y CSS
+<li><a href="https://jairoduenas.github.io/clon-google/">Google</a></li>
