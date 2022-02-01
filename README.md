@@ -18,7 +18,7 @@ A continuación encontrará una lista de proyectos realizados como práctica de 
 
 ### Página web de animaciones con CSS
 
-<li><a href="https://jairoduenas.github.io/Animation-Bunny/">Google</a></li>
+<li><a href="https://jairoduenas.github.io/Animation-Bunny/">Animation bunny</a></li>
 
 ## Contacto
 Teléfono 3206152536
