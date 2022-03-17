@@ -2,6 +2,10 @@
 
 A continuación encontrará una lista de proyectos realizados como práctica de desarrollo web
 
+## Proyecto de introducción a React, consiste en una pequeña aplicación donde se crean un listado de tareas ingresadas por el usuario
+
+<li><a href="https://jairoduenas.github.io/curso-react/">Proyecto introducción a React</a></li>
+
 ### Ejemplo de un portafolio: Sitio Web estático y responsivo, desarrollado en HTML y CSS, incluye imágenes y una breve descripción
 
 <li><a href="https://jairoduenas.github.io/portafolio-ejemplo/">Ejemplo de portafolio</a></li>
