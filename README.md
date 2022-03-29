@@ -2,6 +2,10 @@
 
 A continuación encontrará una lista de proyectos realizados como práctica de desarrollo web
 
+### Proyecto práctico con React, el cual consiste en una página web donde se muestran diferentes productos, agregarlos al carrito de compras, eliminar productos selecionados
+
+<li><a href="https://jairoduenas.github.io/react-shop/">Proyecto práctico React-shop</a></li>
+
 ### Proyecto de introducción a React, consiste en una pequeña aplicación donde se crea y eliminar un listado de tareas ingresadas por el usuario
 
 <li><a href="https://jairoduenas.github.io/curso-react/">Proyecto introducción a React</a></li>
