@@ -2,6 +2,10 @@
 
 A continuación encontrará una lista de proyectos realizados como práctica de desarrollo web
 
+### Proyecto páctico Conf-Merch con React, consiste en una página de comercio web donde se integran varias dependencias, uso de hooks y despliegue en Firebase 
+
+<li><a href="https://conf-merch-jairo.web.app/">Proyecto React Conf-Merch</a></li>
+
 ### Proyecto práctico con React, el cual consiste en una página web donde se muestran diferentes productos, agregarlos al carrito de compras, eliminar productos selecionados
 
 <li><a href="https://jairoduenas.github.io/react-shop/">Proyecto práctico React-shop</a></li>
